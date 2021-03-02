@@ -1,0 +1,26 @@
+td, th {
+    text-align: center;
+    border: rgb(3, 100, 255) 2px solid;
+    border-collapse: collapse;
+}
+caption {
+    text-align: center;
+}
+td, th, caption {
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+table {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comment {
+    text-align: center;
+}
+body {
+    background: url(7fbd820209740ddd24fb5ba9c076c7f1b-84fc1b7a0b39960fcd2c7892b00b93acb.jpg) ;
+    background-size: 100%;
+    
+}
